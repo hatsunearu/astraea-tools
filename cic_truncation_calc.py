@@ -7,11 +7,7 @@
 # https://www.dsprelated.com/showcode/269.php
 
 import numpy as np
-import matplotlib.pyplot as plt
 from scipy.misc import comb as ncr
-from pprint import pprint
-# k ranges from 0..(RM-1)N + j - 1
-# j from 1..N
 
 N = 3
 R = 16
