@@ -7,7 +7,7 @@
 # https://www.dsprelated.com/showcode/269.php
 
 import numpy as np
-from scipy.misc import comb as ncr
+from scipy.special import comb as ncr
 
 N = 3
 R = 16
